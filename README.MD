@@ -8,7 +8,7 @@ Este repositório contém a lista de exercícios de Postman.
 Apenas uma suíte de testes foi desenvolvida, com múltiplos testes.
 
 2. Os testes desenvolvidos são manuais ou automatizados?
-Os testes desenvolvidos são automatizados.
+Os testes desenvolvidos são automatizados, pois são feitos para rodar em uma ferramenta de testes, não sendo necessários rodar tudo na mão.
 
 3. Onde os testes se localizam na pirâmide apresentada?
 Os testes se localizam camada do meio de testes, como testes de integração.
